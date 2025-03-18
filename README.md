@@ -1,4 +1,4 @@
-# Autonomous Drone Navigation using Reinforcement Learning
+# Reinforcement Learning for Safe Drone Autonomy
 
 This repository contains a ROS2-based simulation and control for autonomous drone navigation using Reinforcement Learning (RL). The project aims to train a quadcopter to navigate a complex environment efficiently and safely, utilizing sensor data for obstacle avoidance and path planning.
 
